@@ -2,15 +2,17 @@
 ## Valve Games App 
 <p align="center"><img src="https://raw.githubusercontent.com/Berkantyuks/Valve_Games_App/master/app/src/main/res/drawable/banner_valve_3.png"/></p>
 
-## App Logo
-<p align="center"><img src="https://raw.githubusercontent.com/Berkantyuks/H5190068_berkantyuksektepe/main/Oyunlar%C4%B1.png"/></p>
-Uygulamada Valve şirketinin çıkardığı bazı oyunların detayları listelenmiştir.
-<br><br>
-
 ![java](https://img.shields.io/badge/Java-1.8.xxx-brightgreen.svg)
 ![MVC](https://img.shields.io/badge/Clean--Code-MVC-brightgreen.svg)
 ![Retrofit](https://img.shields.io/badge/Retrofit-2.xx-orange.svg)
 <a><img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat" alt="API" /></a>
+
+## App Logo
+<p><img width="500px" src="https://raw.githubusercontent.com/Berkantyuks/H5190068_berkantyuksektepe/main/Oyunlar%C4%B1.png"/></p>
+Uygulamada Valve şirketinin çıkardığı bazı oyunların detayları listelenmiştir.
+<br><br>
+
+
 
 ## Screen Shots
 <p>

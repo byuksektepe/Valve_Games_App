@@ -1,6 +1,7 @@
 
 ## Valve Games App 
 <p align="center"><img src="https://raw.githubusercontent.com/Berkantyuks/Valve_Games_App/master/app/src/main/res/drawable/banner_valve_3.png"/></p>
+## App Logo
 <p align="center"><img src="https://raw.githubusercontent.com/Berkantyuks/H5190068_berkantyuksektepe/main/Oyunlar%C4%B1.png"/></p>
 Uygulamada Valve şirketinin çıkardığı bazı oyunların detayları listelenmiştir.
 <br><br>

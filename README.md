@@ -1,6 +1,7 @@
 
 ## Valve Games App 
 <p align="center"><img src="https://raw.githubusercontent.com/Berkantyuks/Valve_Games_App/master/app/src/main/res/drawable/banner_valve_3.png"/></p>
+
 ## App Logo
 <p align="center"><img src="https://raw.githubusercontent.com/Berkantyuks/H5190068_berkantyuksektepe/main/Oyunlar%C4%B1.png"/></p>
 Uygulamada Valve şirketinin çıkardığı bazı oyunların detayları listelenmiştir.
@@ -23,9 +24,9 @@ Uygulamada Valve şirketinin çıkardığı bazı oyunların detayları listelen
 </p>
 
 
-## Clean Simple Architecture
+## Clean Project Architecture
 <p><img align="left" width="244px"; src="https://raw.githubusercontent.com/Berkantyuks/Valve_Games_App/master/assets/mimari.png"/></p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ## Libraries and Tools 
 <li><a href="https://square.github.io/retrofit/">Retrofit2</a></li>
@@ -35,7 +36,7 @@ Uygulamada Valve şirketinin çıkardığı bazı oyunların detayları listelen
 
 
 ## License
-Copyright 2021 Berkant Yüksektepe
+Copyright © 2021 Berkant Yüksektepe
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

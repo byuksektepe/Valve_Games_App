@@ -26,7 +26,7 @@ Uygulamada Valve şirketinin çıkardığı bazı oyunların detayları listelen
 
 ## Clean Project Architecture
 <p><img align="left" width="244px"; src="https://raw.githubusercontent.com/Berkantyuks/Valve_Games_App/master/assets/mimari.png"/></p>
-<br><br><br>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Libraries and Tools 
 <li><a href="https://square.github.io/retrofit/">Retrofit2</a></li>

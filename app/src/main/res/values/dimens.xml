@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--general dimens-->
+    <dimen name="layout_margin_utf18">18dp</dimen>
+    <dimen name="layout_margin_t4">4dp</dimen>
+    <dimen name="layout_h">190dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_26">26sp</dimen>
+    <dimen name="text_size_default">14sp</dimen>
+
+    <!--card_view_app.xml dimens-->
+    <dimen name="layout_margin_e40">40dp</dimen>
+    <dimen name="layout_margin_b18">18dp</dimen>
+    <dimen name="layout_margin_s16">16dp</dimen>
+    <dimen name="layout_margin_m10">10dp</dimen>
+    <dimen name="layout_margin_t12">12dp</dimen>
+    <dimen name="layout_margin_m13">13dp</dimen>
+    <dimen name="img_w_card">120dp</dimen>
+    <dimen name="img_h_card">150dp</dimen>
+
+    <!--activity_game_detail.xml dimens-->
+    <dimen name="img_h_game_d">220dp</dimen>
+    <dimen name="layout_height_title">35dp</dimen>
+    <dimen name="layout_margin_l18">18dp</dimen>
+    <dimen name="layout_margin_t22">22dp</dimen>
+    <dimen name="logo_w_80">80dp</dimen>
+    <dimen name="logo_h_40">40dp</dimen>
+
+
+</resources>
+

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.GameDetailActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="38dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/topGameCover"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/img_h_game_d"
+                android:contentDescription="@string/game_body_content"
+                app:srcCompat="@drawable/hidden_image" />
+
+            <TextView
+                android:id="@+id/gameTitle"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title"
+                android:layout_marginLeft="@dimen/layout_margin_l18"
+                android:layout_marginTop="@dimen/layout_margin_t22"
+                android:layout_marginRight="@dimen/layout_margin_l18"
+                android:text="@string/jsonVeri"
+                android:textSize="@dimen/text_size_26"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/gameDesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_margin_utf18"
+                android:text="@string/jsonVeri"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/gameOp1Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_margin_utf18"
+                android:layout_marginTop="@dimen/layout_margin_utf18"
+                android:layout_marginRight="@dimen/layout_margin_utf18"
+                android:layout_marginBottom="@dimen/layout_margin_t4"
+                android:text="@string/r_date"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/gameOp1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_margin_utf18"
+                android:text="@string/jsonVeri"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/gameOp2Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_margin_utf18"
+                android:layout_marginTop="@dimen/layout_margin_utf18"
+                android:layout_marginRight="@dimen/layout_margin_utf18"
+                android:layout_marginBottom="@dimen/layout_margin_t4"
+                android:text="@string/stream"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/gameOp2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_margin_utf18"
+                android:text="@string/jsonVeri"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/gameOp3Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_margin_utf18"
+                android:layout_marginTop="@dimen/layout_margin_utf18"
+                android:layout_marginRight="@dimen/layout_margin_utf18"
+                android:layout_marginBottom="@dimen/layout_margin_t4"
+                android:text="@string/game_genre"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/gameOp3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_margin_utf18"
+                android:text="@string/jsonVeri"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/gameOp4Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_margin_utf18"
+                android:layout_marginTop="@dimen/layout_margin_utf18"
+                android:layout_marginRight="@dimen/layout_margin_utf18"
+                android:layout_marginBottom="@dimen/layout_margin_t4"
+                android:text="@string/game_mode"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/gameOp4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_margin_utf18"
+                android:text="@string/jsonVeri"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/gameOp5Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_margin_utf18"
+                android:layout_marginTop="@dimen/layout_margin_utf18"
+                android:layout_marginRight="@dimen/layout_margin_utf18"
+                android:layout_marginBottom="@dimen/layout_margin_t4"
+                android:text="@string/game_engine"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/gameOp5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_margin_utf18"
+                android:text="@string/jsonVeri"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/gameOp6Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/layout_margin_utf18"
+                android:layout_marginTop="@dimen/layout_margin_utf18"
+                android:layout_marginRight="@dimen/layout_margin_utf18"
+                android:layout_marginBottom="@dimen/layout_margin_t4"
+                android:text="@string/game_platform"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/gameOp6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_margin_utf18"
+                android:text="@string/jsonVeri"
+                android:textSize="@dimen/text_size_16"
+                android:textStyle="normal" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/valve_top_logo"
+            android:layout_width="@dimen/logo_w_80"
+            android:layout_height="@dimen/logo_h_40"
+            android:layout_margin="@dimen/layout_margin_utf18"
+            android:contentDescription="@string/logo_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/valve_logo" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">H5190068_BerkantYuksektepeFinal</string>
+    <string name="ayarlara_git">Ayarlara git</string>
+    <string name="cikis">Çıkış</string>
+    <string name="no_connection">İnternete bağlı değilsiniz.</string>
+    <string name="sure_for_connect">İnterneti açmak için ayarlara gidin.</string>
+    <string name="et">Evet</string>
+    <string name="hy">Hayır</string>
+    <string name="loader">Oyunlar Yükleniyor..</string>
+    <string name="are_you_sure">Uygulamadan çıkmak istediğinize emin misiniz?</string>
+    <string name="exit_message">Devam etmeniz halinde uygulama kapatılacaktır.</string>
+    <string name="r_date">Çıkış Tarihi: </string>
+    <string name="stream">Yayınlayan: </string>
+    <string name="game_genre">Oyun Türü: </string>
+    <string name="game_mode">Oyun Modu: </string>
+    <string name="game_engine">Grafik Motoru: </string>
+    <string name="game_platform">Yayınlandığı Platformlar: </string>
+    <string name="jsonVeri">Json Verisi Dolduracak</string>
+    <string name="game_body_content">gameBodyImage</string>
+    <string name="game_cover_content">gameCoverImage</string>
+    <string name="list_border_content">borderListImage</string>
+    <string name="logo_content">valveTopLogo</string>
+
+</resources>
